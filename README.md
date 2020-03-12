@@ -1,7 +1,7 @@
 # ≽(◕ ᴗ ◕)≼
 # -AXOLOTL-
 
-### Prueba de concepto para SpringBoot + Glassfish
+### Proof of concept for SpringBoot + Glassfish
 
 
 Proof of concept for a SpringBoot Application working in Glassfish 4.1.2
@@ -31,7 +31,7 @@ http://localhost:8080/axolotl/greeting?name=Darkona
 ```
 
 
-### Cambios
+### Changes
 
 * 1.0.0 Initial version
 
